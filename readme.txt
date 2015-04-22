@@ -166,3 +166,6 @@ those 那些
 they 他们
 thank 谢谢;感谢
 they’re = they are
+insert into new line,check out the text!
+dongchne
+
